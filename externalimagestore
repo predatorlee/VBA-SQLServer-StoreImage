@@ -1,0 +1,7 @@
+Option Compare Database
+
+Private Sub Form_Current
+  NonCompliant.Picture = Picture
+  
+  
+ End Sub 
